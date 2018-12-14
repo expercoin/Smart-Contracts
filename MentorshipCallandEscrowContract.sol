@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
-contract CallContract {
+contract MentorshipCallandEscrowContract {
     address client;
     address site;
     address expert;
